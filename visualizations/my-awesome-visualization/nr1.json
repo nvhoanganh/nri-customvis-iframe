@@ -1,0 +1,14 @@
+{
+    "schemaType": "VISUALIZATION",
+    "id": "my-awesome-visualization",
+    "displayName": "MyAwesomeVisualization",
+    "description": "",
+    "configuration": [
+        {
+            "name": "url",
+            "title": "Url to Embed",
+            "description": "Url to Embed",
+            "type": "string"
+        }
+    ]
+}
